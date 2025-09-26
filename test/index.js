@@ -12,7 +12,7 @@
             const cuisine = cuisines[i];
             const rating = ratings[i];
 
-            // Lưu thông tin món ăn
+            // Lưu thông tin món
             this.foodInfo.set(food, { cuisine, rating });
 
             // Nhóm món ăn theo cuisine
